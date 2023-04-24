@@ -12,19 +12,20 @@ API: http://graphql.org/swapi-graphql
 Feature 1: Querying data
 We want to ensure that the API correctly returns data when queried. You should write tests to verify
 that:
-● Basic queries return the expected data.
-● Queries with arguments return the expected data.
-● Queries with nested data return the expected data
+* Basic queries return the expected data.
+* Queries with arguments return the expected data.
+* Queries with nested data return the expected data
 
 # Feature 2: Mutating data
 
 We want to ensure that the API correctly mutates data when requested. You should write tests to
 verify that:
-● Basic mutations work correctly.
+* Basic mutations work correctly.
 
 # Feature 3: Error handling
 We want to ensure that the API correctly handles errors. You should write tests to verify that:
-● Queries with invalid fields return an error.
+* Queries with invalid fields return an error.
+
 
 
 # Tools
